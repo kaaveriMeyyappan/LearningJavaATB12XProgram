@@ -12,7 +12,7 @@ public class Facttask {
             System.out.println("Factorial is " +fact);
         }
         else{
-            for (int i = num; i >0; i--){
+            for (int i=num; i >0; i--){
                 fact = fact * i;
 
             }
