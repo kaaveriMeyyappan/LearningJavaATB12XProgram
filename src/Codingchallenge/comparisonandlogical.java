@@ -3,7 +3,7 @@ package Codingchallenge;
 public class comparisonandlogical {
     public static void main(String[] args) {
             // Comparison Operators
-            int a = 10, b = 20;
+            int a = 10, b = 5;
             System.out.println("Comparison Operators:");
             System.out.println("a == b: " + (a == b)); // Equal to
             System.out.println("a != b: " + (a != b)); // Not equal to
