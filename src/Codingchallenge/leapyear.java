@@ -2,7 +2,7 @@ package Codingchallenge;
 
 public class leapyear {
     public static void main(String[] args) {
-            int year = 2020; // Replace with the year you want to check
+            int year = 1900; // Replace with the year you want to check
 
             if (isLeapYear(year)) {
                 System.out.println(year + " is a leap year.");
