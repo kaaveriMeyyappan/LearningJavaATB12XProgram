@@ -2,10 +2,10 @@ package Codingchallenge;
 
 public class Equals {
     public static void main(String[] args) {
-        String str1 = "Java";
-        String str2 = "Java";
-        String str3 = new String("Java");
-        String str4 = "java";
+        String str1 = "Hello";
+        String str2 = "Hello";
+        String str3 = new String("Hello");
+        String str4 = "Hello";
 
         // Using == operator (reference comparison)
         System.out.println("Using == :");
